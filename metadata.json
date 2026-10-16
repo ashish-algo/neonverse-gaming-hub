@@ -1,0 +1,6 @@
+{
+  "name": "Tic Tac Toe Unlimited",
+  "description": "An arcade-style extended N×N Tic-Tac-Toe where 3-in-a-row scores points and the board is played until full.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
